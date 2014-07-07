@@ -5,7 +5,7 @@ Examples for controlling controlling the OpenROV using Ruby via the socket.io AP
 
 ### To setup
 
-    % get install bundler
+    % gem install bundler
     % bundle install
 
 ### To run
